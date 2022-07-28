@@ -46,6 +46,10 @@ ul {
     padding-inline-start: 40px;
 }
 
+.purple {
+    color: rgb(100, 21, 255);
+}
+
 /* 
 
 NAVBAR
@@ -95,4 +99,23 @@ NAVBAR
     background-color: #6415ff;
     color: #fff;
     border-radius: 50px;
+}
+
+/*
+
+HEADER
+
+*/
+
+.header__row {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+.header__description{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
 }

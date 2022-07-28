@@ -130,6 +130,10 @@ HEADER
     font-weight: 700;
 }
 
+.header__para {
+    margin:32px 0;
+}
+
 .header__description{
     display: flex;
     flex-direction: column;

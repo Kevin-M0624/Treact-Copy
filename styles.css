@@ -37,6 +37,15 @@ li {
     text-align: center;
 }
 
+ul {
+    list-style-type: disc;
+    margin-block-start: 16px;
+    margin-block-end: 16px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
 /* 
 
 NAVBAR

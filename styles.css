@@ -124,6 +124,12 @@ HEADER
     justify-content: center;
 }
 
+.header__title {
+    font-size: 36px;
+    text-align: center;
+    font-weight: 700;
+}
+
 .header__description{
     display: flex;
     flex-direction: column;

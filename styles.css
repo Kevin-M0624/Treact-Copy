@@ -145,7 +145,7 @@ HEADER
     height: auto;
 }
 
-.header__customers {
+.header__email {
     display: flex;
     justify-content: space-between;
     max-width: 450px;
@@ -153,4 +153,8 @@ HEADER
     margin-right: 0;
     position: relative;
     text-align: center;
+}
+
+.header__email-input {
+    
 }

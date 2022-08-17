@@ -115,29 +115,27 @@ HEADER
 
 */
 
-.header__row {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 24px;
+.header {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .header__title {
-    font-size: 36px;
-    text-align: center;
+    font-size: 48px;
+    text-align: left;
     font-weight: 700;
 }
 
 .header__para {
+    font-size: 18px;
     margin:32px 0;
+    line-height: 1.8;
+    color: #243e63;
 }
 
 .header__description{
-    display: flex;
-    flex-direction: column;
-    width: 100%;
+    width: 60%;
 }
 
 .header__img {

@@ -235,3 +235,7 @@ FEATURES
     align-items: center;
     margin-bottom: 16px;
 }
+
+.features__header {
+    font-size: 48px;
+}

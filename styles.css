@@ -226,3 +226,12 @@ FEATURES
     justify-content: center;
     max-width: 1024px !important;
 }
+
+.features__title {
+    font-size: 18px;
+    letter-spacing: 1.6px;
+    font-weight: 700px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+}

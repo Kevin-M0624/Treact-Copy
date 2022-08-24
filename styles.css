@@ -277,5 +277,11 @@ FEATURES
 .features__img-container {
     padding: 20px;
     border: 1px solid #e5e7eb;
-    
+    border-radius: 9999px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 66px;
+    height: 66px;
 }

@@ -257,9 +257,10 @@ FEATURES
 
 .features__wrapper {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     margin-top: 40px;
     max-width: 1020px;
 }
@@ -284,4 +285,25 @@ FEATURES
     align-items: center;
     width: 66px;
     height: 66px;
+}
+
+.features__text-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 8px;
+    margin-left: 16px;
+}
+
+.features__box-title {
+    text-align: left;
+    font-size: 24px;
+    line-height: 2;
+}
+
+.features__box-para {
+    text-align: left;
+    font-size: 16px;
+    line-height: 2;
+    font-weight: 500;
+    color: rgb(124,139,161);
 }

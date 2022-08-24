@@ -254,3 +254,28 @@ FEATURES
     font-weight: 500;
     color:  rgb(124,139,161);
 }
+
+.features__wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    max-width: 1020px;
+}
+
+.features__box {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    text-align: left;
+    padding: 32px 24px;
+    height: 100%;
+    width: calc(100%/3);
+}
+
+.features__img-container {
+    padding: 20px;
+    border: 1px solid #e5e7eb;
+    
+}

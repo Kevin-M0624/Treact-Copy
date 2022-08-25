@@ -355,6 +355,13 @@ QUALITY
     margin-top: 16px;
     font-size: 18px;
     line-height: 1.5;
+    font-weight: 500;
+    color:  rgb(124,139,161);
+}
+
+.quality__btn {
+    margin-top: 32px;
+    margin-right: auto;
 }
 
 .quality__right {

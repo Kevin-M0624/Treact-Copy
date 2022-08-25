@@ -350,6 +350,13 @@ QUALITY
     letter-spacing: 00.4px;
 }
 
+.quality__para {
+    text-align: left;
+    margin-top: 16px;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
 .quality__right {
     width: 50%;
 }

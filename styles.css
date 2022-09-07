@@ -383,6 +383,11 @@ STEPS
     width: 50%;
 }
 
+.steps__img-container {
+    width: 100%;
+    height: auto;
+}
+
 .steps__right {
     width: 50%;
     padding: 32px 0;

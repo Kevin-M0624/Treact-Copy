@@ -405,3 +405,12 @@ STEPS
     align-items: center;
     margin-bottom: 16px;
 }
+
+.steps__title {
+    margin-top: 12px;
+    text-align: left;
+    color: #243e63;
+    font-size: 48px;
+    font-weight: 900;
+    letter-spacing: 0.4px;
+}

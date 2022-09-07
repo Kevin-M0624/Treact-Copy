@@ -396,3 +396,12 @@ STEPS
     justify-content: space-between;
     margin-left: 66px;
 }
+
+.steps__header {
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 1.6px;
+    font-weight: 700px;
+    align-items: center;
+    margin-bottom: 16px;
+}

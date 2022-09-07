@@ -432,3 +432,13 @@ STEPS
     font-size: 32px;
     color: #cbd5e0;
 }
+
+.steps__list-text {
+    margin: 4px 18px;
+}
+
+.steps__list-title{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+}

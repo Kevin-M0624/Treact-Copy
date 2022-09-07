@@ -414,3 +414,21 @@ STEPS
     font-weight: 900;
     letter-spacing: 0.4px;
 }
+
+.steps__lists {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.step__list {
+    display: flex;
+    flex-direction: row;
+    margin-top: 32px;
+}
+
+.steps__num {
+    font-weight: 600;
+    font-size: 32px;
+    color: #cbd5e0;
+}

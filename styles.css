@@ -442,3 +442,13 @@ STEPS
     font-weight: 600;
     text-align: left;
 }
+
+.steps__list-para {
+    max-width: 320px;
+    margin-top: 12px;
+    font-size: 14px;
+    line-height: 2;
+    text-align: left;
+    font-weight: 500;
+    color: rgb(124,139,161);
+}

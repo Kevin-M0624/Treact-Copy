@@ -500,6 +500,20 @@ VALUES
     color: rgb(124,139,161);
 }
 
+.values__column-within {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.values__column-one {
+    width: 50%;
+    margin-top: 32px;
+    margin-right: 32px;
+}
+
+
+
 .values__img-container {
     display: block;
     margin-block-start: 1em;

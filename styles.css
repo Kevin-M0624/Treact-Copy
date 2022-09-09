@@ -492,3 +492,10 @@ VALUES
     font-weight: 900;
     letter-spacing: 0.4px;
 }
+
+.values__para {
+    font-size: 18px;
+    margin-top: 32px;
+    font-weight: 500;
+    color: rgb(124,139,161);
+}

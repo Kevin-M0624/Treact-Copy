@@ -524,6 +524,20 @@ VALUES
     color: rgb(39, 103, 73);
 }
 
+.values__one-title {
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 12px;
+    color: #243e63;
+    letter-spacing: 0.4px;
+    text-align: center;
+    line-height: 1.25;
+}
+
+.
+
 .values__img-container {
     display: block;
     margin-block-start: 1em;

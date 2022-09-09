@@ -499,3 +499,16 @@ VALUES
     font-weight: 500;
     color: rgb(124,139,161);
 }
+
+.values__img-container {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+.values__img {
+    width: 100%;
+    height: auto;
+}

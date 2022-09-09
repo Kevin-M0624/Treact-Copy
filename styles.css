@@ -498,6 +498,7 @@ VALUES
     margin-top: 32px;
     font-weight: 500;
     color: rgb(124,139,161);
+    line-height: 1.5;
 }
 
 .values__column-within {
@@ -540,6 +541,7 @@ VALUES
     margin-top: 16px;
     font-weight: 500;
     color: rgb(124,139,161);
+    line-height: 1.5;
 }
 
 .values__column-two {
@@ -572,6 +574,7 @@ VALUES
     margin-top: 16px;
     font-weight: 500;
     color: rgb(124,139,161);
+    line-height: 1.5;
 }
 
 .values__img-container {

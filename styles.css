@@ -542,6 +542,12 @@ VALUES
     color: rgb(124,139,161);
 }
 
+.values__column-two {
+    width: 50%;
+    margin-top: 32px;
+    margin-right: 32px;
+}
+
 .values__img-container {
     display: block;
     margin-block-start: 1em;

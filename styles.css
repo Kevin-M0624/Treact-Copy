@@ -548,6 +548,14 @@ VALUES
     margin-right: 32px;
 }
 
+.values__brief-container {
+    display: flex;
+    padding: 8px;
+    background-color: rgb(254, 178, 178);
+    border-radius: 9999px;
+    color: rgb(155, 44, 44);
+}
+
 .values__img-container {
     display: block;
     margin-block-start: 1em;

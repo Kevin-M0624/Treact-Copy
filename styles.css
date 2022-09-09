@@ -468,3 +468,8 @@ VALUES
     align-items: center;
     margin: 0 auto;
 }
+
+.values__left {
+    width: 50%;
+    padding: 32px 64px 32px 0;
+}

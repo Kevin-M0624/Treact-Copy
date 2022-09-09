@@ -589,3 +589,7 @@ VALUES
     width: 100%;
     height: auto;
 }
+
+.values__btn-container {
+    margin-top: 32px;
+}

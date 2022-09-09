@@ -483,3 +483,12 @@ VALUES
     margin-bottom: 16px;
 }
 
+.values__title {
+    text-align: left;
+    margin-top: 16px;
+    line-height: 1.25;
+    color: #243e63;
+    font-size: 48px;
+    font-weight: 900;
+    letter-spacing: 0.4px;
+}

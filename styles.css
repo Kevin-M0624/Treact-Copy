@@ -512,7 +512,17 @@ VALUES
     margin-right: 32px;
 }
 
+.values__texts {
+    display: flex;
+}
 
+.values__money-container {
+    display: flex;
+    padding: 8px;
+    background-color: rgb(154, 230, 180);
+    border-radius: 9999px;
+    color: rgb(39, 103, 73);
+}
 
 .values__img-container {
     display: block;

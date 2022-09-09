@@ -568,6 +568,12 @@ VALUES
     line-height: 1.25;
 }
 
+.values__two-para {
+    margin-top: 16px;
+    font-weight: 500;
+    color: rgb(124,139,161);
+}
+
 .values__img-container {
     display: block;
     margin-block-start: 1em;

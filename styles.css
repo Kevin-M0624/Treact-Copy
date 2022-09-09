@@ -593,3 +593,7 @@ VALUES
 .values__btn-container {
     margin-top: 32px;
 }
+
+.values__btn {
+    padding: 14px 32px;
+}

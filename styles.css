@@ -577,6 +577,10 @@ VALUES
     line-height: 1.5;
 }
 
+.values__right {
+    width: 50%;
+}
+
 .values__img-container {
     display: block;
     margin-block-start: 1em;

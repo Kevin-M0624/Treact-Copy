@@ -617,8 +617,8 @@ PRICING
 }
 
 .pricing__header {
-    font-size: 18;
-    letter-spacing: 1.6;
+    font-size: 18px;
+    letter-spacing: 1.6px;
     font-weight: 700;
     align-items: center;
     margin-bottom: 16px;

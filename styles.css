@@ -615,3 +615,11 @@ PRICING
     justify-content: center;
     max-width: 1024px !important;
 }
+
+.pricing__header {
+    font-size: 18;
+    letter-spacing: 1.6;
+    font-weight: 700;
+    align-items: center;
+    margin-bottom: 16px;
+}

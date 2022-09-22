@@ -601,3 +601,17 @@ VALUES
 .values__btn {
     padding: 14px 32px;
 }
+
+/*
+
+PRICING
+
+*/ 
+
+.pricing__column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 1024px !important;
+}

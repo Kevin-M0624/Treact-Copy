@@ -628,7 +628,16 @@ PRICING
     font-size: 48px;
     line-height: 1.5px;
     color: #243e63;
-    font-weight: 48px;
+    font-weight: 900;
     letter-spacing: 0.4px;
     text-align: center;
+}
+
+.pricing__para {
+    margin-top: 18px;
+    width: 100%;
+    max-width: 576px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.625px;
 }

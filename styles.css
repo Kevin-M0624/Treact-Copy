@@ -614,6 +614,8 @@ PRICING
     align-items: center;
     justify-content: center;
     max-width: 1024px !important;
+    width: 100%;
+    margin: 0 auto;
 }
 
 .pricing__header {
@@ -631,10 +633,11 @@ PRICING
     font-weight: 900;
     letter-spacing: 0.4px;
     text-align: center;
+    margin-top: 16px;
 }
 
 .pricing__para {
-    margin-top: 18px;
+    margin-top: 32px;
     width: 100%;
     max-width: 576px;
     text-align: center;

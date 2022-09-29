@@ -679,3 +679,12 @@ PRICING
     line-height: 1.25px;
 }
 
+.panel__price {
+    margin: 4px 0;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    padding: 8px 0;
+    color: #242424;
+    line-height: 1.25px;
+}

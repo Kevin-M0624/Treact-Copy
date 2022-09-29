@@ -663,3 +663,9 @@ PRICING
     margin-right: 32px;
     position: relative;
 }
+
+.pricing__options-header {
+    display: flex;
+    flex-direction: column;
+    padding: 32px 0;
+}

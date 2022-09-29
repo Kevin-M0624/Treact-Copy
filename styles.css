@@ -688,3 +688,20 @@ PRICING
     color: #242424;
     line-height: 1.25;
 }
+
+.panel__monthly {
+    text-align: center;
+    color: #a0aec0;
+    letter-spacing: 1.6px;
+    font-weight: 700;
+}
+
+.pricing__features {
+    display: flex;
+    flex-direction: column;
+    border-top: 2px #e5e7eb solid;
+    border-bottom: 2px #e5e7eb solid;
+    padding: 32px;
+    margin: 0 -32px;
+    box-sizing: border-box;
+}

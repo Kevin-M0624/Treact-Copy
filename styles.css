@@ -748,3 +748,8 @@ PRICING
 .white__text {
     color: #f7fafc;
 }
+
+.white__btn {
+    background: white;
+    color: #6415ff;
+}

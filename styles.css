@@ -740,3 +740,7 @@ PRICING
     border: none;
     transition: transform 300ms ease, box-shadow 300ms ease;
 }
+
+.blue__option {
+    background-image: linear-gradient(135deg, rgb(76,81,191) 0%, rgb(102,126,234) 100%);
+}

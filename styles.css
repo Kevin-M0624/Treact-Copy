@@ -806,3 +806,8 @@ TESTIMONIALS
     width: 100%;
     height: auto;
 }
+
+.testimony__right {
+    width: 50%;
+    padding-left: 64px;
+}

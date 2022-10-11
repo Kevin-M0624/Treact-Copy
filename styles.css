@@ -795,3 +795,9 @@ TESTIMONIALS
 .testimony__left {
     width: 50%;
 }
+
+.testimoy__img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

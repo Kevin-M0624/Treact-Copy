@@ -779,3 +779,15 @@ PRICING
 .blue__border {
     border-color: rgb(102, 126, 234) ;
 }
+
+/*
+
+TESTIMONIALS
+
+*/ 
+
+.two__column {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 

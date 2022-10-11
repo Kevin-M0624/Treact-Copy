@@ -811,3 +811,7 @@ TESTIMONIALS
     width: 50%;
     padding-left: 64px;
 }
+
+.testimonials__header {
+    text-align: left;
+}

@@ -791,3 +791,7 @@ TESTIMONIALS
     justify-content: center;
     align-items: center;
 } 
+
+.testimony__left {
+    width: 50%;
+}

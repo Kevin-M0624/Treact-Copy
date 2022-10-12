@@ -831,3 +831,11 @@ TESTIMONIALS
     line-height: 1.25px;
 }
 
+.testimonials__para {
+    margin-top: 16px;
+    margin-bottom: 40px;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 500;
+    color: rgb(124,139,161);
+}

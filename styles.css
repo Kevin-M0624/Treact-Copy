@@ -814,4 +814,10 @@ TESTIMONIALS
 
 .testimonials__header {
     text-align: left;
+    font-size: 18px;
+    letter-spacing: 1.6px;
+    font-weight: 700;
+    align-items: center;
+    margin-bottom: 16px;
 }
+

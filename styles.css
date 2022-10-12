@@ -819,6 +819,7 @@ TESTIMONIALS
     font-weight: 700;
     align-items: center;
     margin-bottom: 16px;
+    line-height: 1.25px;
 }
 
 .testimonials__title {
@@ -829,3 +830,4 @@ TESTIMONIALS
     letter-spacing: 0.4px;
     line-height: 1.25px;
 }
+

@@ -821,3 +821,11 @@ TESTIMONIALS
     margin-bottom: 16px;
 }
 
+.testimonials__title {
+    text-align: left;
+    color: #243e63;
+    font-size: 48px;
+    font-weight: 900;
+    letter-spacing: 0.4px;
+    line-height: 1.25px;
+}

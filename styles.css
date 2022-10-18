@@ -846,3 +846,7 @@ TESTIMONIALS
     align-items: flex-start;
     margin-top: 40px;
 }
+
+.stars-container {
+    display: flex;
+}

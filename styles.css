@@ -839,3 +839,10 @@ TESTIMONIALS
     font-weight: 500;
     color: rgb(124,139,161);
 }
+
+.reviews {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 40px;
+}
